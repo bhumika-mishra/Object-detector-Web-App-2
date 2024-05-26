@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+#button {
+    position: absolute;
+    top: 50px;
+    right: 0;
+}
+#modelStatus {
+    background-color: #f8f8f8;
+    color: #333;
+    font-size: 16px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+html, body {
+    height: 100%;
+}
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

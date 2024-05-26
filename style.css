@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+a {
+    color:white;
+    text-decoration: italic;
+}
+a:hover {
+    color: rgb(16, 1, 1); 
+    text-decoration: underline; 
+}
+a img {
+    width: 200px; 
+    max-width: 100%;       
+    height: auto;
+    display: block;
+     margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+
+
